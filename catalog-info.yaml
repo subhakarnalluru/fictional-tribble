@@ -9,7 +9,10 @@ metadata:
   criticality: vital
   annotations:
     backstage.io/kubernetes-id: value
-spec:
-  type: other
-  lifecycle: unknown
-  squad: unknown
+spec: 
+  lifecycle: experimental
+  owner: "Fidel Coria"
+  squad: eSOA
+  averageResponseTime: 100ms
+  maxResponseTime: 200ms
+  type: service
