@@ -3,6 +3,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: fictional-tribble
+  annotations:
+    backstage.io/kubernetes-id: value
 spec:
   type: other
   lifecycle: unknown
