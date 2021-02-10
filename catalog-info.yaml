@@ -2,13 +2,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: some-unique-component-name
+  name: fictional-tribble
   subscribe: Apigee
   archerID: 1234
   domain: cargo
   criticality: vital
   annotations:
-    backstage.io/kubernetes-id: some-unique-component-name
+    backstage.io/kubernetes-id: fictional-tribble
 spec: 
   lifecycle: experimental
   owner: "Fidel Coria"
