@@ -8,7 +8,7 @@ metadata:
   domain: cargo
   criticality: vital
   annotations:
-    backstage.io/kubernetes-id: value
+    backstage.io/kubernetes-id: some-unique-component-name
 spec: 
   lifecycle: experimental
   owner: "Fidel Coria"
