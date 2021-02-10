@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: busybox1
+  name: some-unique-component-name
   subscribe: Apigee
   archerID: 1234
   domain: cargo
