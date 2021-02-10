@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: fictional-tribble
+  name: runway-services
   subscribe: Apigee
   archerID: 1234
   domain: cargo
