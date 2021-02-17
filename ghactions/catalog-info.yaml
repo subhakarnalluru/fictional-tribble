@@ -2,7 +2,7 @@
 apiVersion: catalog.developer.aa.com/v1
 kind: Component
 metadata:
-  name: karlsTestImage
+  name: fidelsTestImage
   description: 'An endpoint to be called during deployments by development teams'
   subscribe: Apigee
   archerID: 7304941
