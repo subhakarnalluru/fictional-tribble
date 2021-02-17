@@ -9,7 +9,7 @@ metadata:
   domain: employee
   criticality: vital
   annotations:
-    github.com/project-slug: 'AAInternal/tnt-tower'
+    github.com/project-slug: 'fidelcoria-aa/fictional-tribble'
     argocd/app-name: 'springy-app-thing'
     backstage.io/kubernetes-id: towerapi
 spec:
