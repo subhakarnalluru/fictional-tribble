@@ -1,22 +1,38 @@
-#---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: fidelsTestImage
-  description: 'An endpoint to be called during deployments by development teams'
-  #subscribe: Apigee
-  #archerID: 7304941
-  #domain: employee
-  #criticality: vital
+  name: queue-proxy
+  description: Queue Proxy
+  tags:
+    - go
+    - website
   annotations:
     github.com/project-slug: 'fidelcoria-aa/fictional-tribble'
-    #argocd/app-name: 'springy-app-thing'
-    #backstage.io/kubernetes-id: towerapi
 spec:
   type: website
-  lifecycle: experimental
-  owner: 'Technology and Transformation'
+  lifecycle: production
+  owner: team-b
+  system: podcast
+  
+  
+# #---
+# apiVersion: backstage.io/v1alpha1
+# kind: Component
+# metadata:
+#   name: fidelsTestImage
+#   description: 'An endpoint to be called during deployments by development teams'
+#   #subscribe: Apigee
+#   #archerID: 7304941
+#   #domain: employee
+#   #criticality: vital
+#   annotations:
+#     github.com/project-slug: 'fidelcoria-aa/fictional-tribble'
+#     #argocd/app-name: 'springy-app-thing'
+#     #backstage.io/kubernetes-id: towerapi
+# spec:
+#   type: website
+#   lifecycle: experimental
+#   owner: 'Technology and Transformation'
   #squad: 'Developer Experience'
   #averageResponseTime: 100ms
   #maxResponseTime: 200ms
-
