@@ -6,8 +6,8 @@ metadata:
   tags:
     - go
     - website
-  #annotations:
-    #github.com/project-slug: 'fidelcoria-aa/fictional-tribble'
+  annotations:
+    github.com/project-slug: 'fidelcoria-aa/fictional-tribble'
 spec:
   type: website
   lifecycle: production
