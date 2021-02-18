@@ -4,7 +4,7 @@ kind: Component
 metadata:
   name: fidelsTestImage
   description: 'An endpoint to be called during deployments by development teams'
-  subscribe: Apigee
+  #subscribe: Apigee
   archerID: 7304941
   domain: employee
   criticality: vital
