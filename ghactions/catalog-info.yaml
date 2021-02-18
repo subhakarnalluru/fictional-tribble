@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: queue-proxy
+  name: fidelsTestImage
   description: Queue Proxy
   tags:
     - go
@@ -11,7 +11,7 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: team-b
+  owner: guest
   system: podcast
   
   
