@@ -6,8 +6,7 @@ metadata:
   subscribe: Apigee
   archerID: 1234
   domain: 
-  criticality:
-  squad: DX
+  criticality: Vital
   annotations:
     backstage.io/kubernetes-id: fictional-tribble
 spec: 
