@@ -6,6 +6,8 @@ metadata:
   subscribe: Apigee
   archerID: 1234
   criticality: vital
+  doain: TnT
+  squad: Phenoms
   annotations:
     backstage.io/kubernetes-id: fictional-tribble
 spec: 
