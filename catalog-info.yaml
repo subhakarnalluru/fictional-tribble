@@ -5,12 +5,6 @@ metadata:
   name: fictional-tribble
   subscribe: Apigee
   archerID: 1234
-  domain: employee
-  cmdbAppShortName: 'DevRunway'
-  criticality: discretionary
-  squads:
-    - 'The Second Order'
-    - 'Phenoms'
   annotations:
     backstage.io/kubernetes-id: fictional-tribble
 spec: 
