@@ -4,7 +4,6 @@ kind: Component
 metadata:
   name: fictional-tribble
   subscribe: Apigee
-  archerID: 1234
   cmdbAppShortName: 'DevRunway'
   criticality: discretionary
   squad: 'Phenoms'
