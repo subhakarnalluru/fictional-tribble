@@ -5,7 +5,7 @@ metadata:
   name: fictional-tribble
   subscribe: Apigee
   cmdbAppShortName: 'DevRunway'
-  criticality: discretionary
+  criticality: 'discretionary'
   squad: 'Phenoms'
   annotations:
     backstage.io/kubernetes-id: fictional-tribble
