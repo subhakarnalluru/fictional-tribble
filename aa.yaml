@@ -1,0 +1,6 @@
+cmdbAppShortName: 'DevRunway'
+domain: 'DX'
+criticality: 'discretionary'
+squads:
+  - 'The Second Order'
+  - 'Phenoms'
