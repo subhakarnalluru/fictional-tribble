@@ -5,6 +5,7 @@ metadata:
   name: fictional-tribble
   subscribe: Apigee
   cmdbAppShortName: 'DevRunway'
+  archerID: 'DevRunway'
   criticality: 'discretionary'
   squad: 'Phenoms'
   annotations:
