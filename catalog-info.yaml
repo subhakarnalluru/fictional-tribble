@@ -6,6 +6,7 @@ metadata:
   subscribe: Apigee
   cmdbAppShortName: 'DevRunway'
   archerID: 'DevRunway'
+  domain: 'DX'
   criticality: 'discretionary'
   squad: 'Phenoms'
   annotations:
