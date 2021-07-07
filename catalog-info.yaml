@@ -8,7 +8,7 @@ metadata:
   archerID: 'DevRunway'
   domain: 'DX'
   criticality: 'discretionary'
-  squad: Phenoms
+  squad: 'Phenoms'
   annotations:
     backstage.io/kubernetes-id: fictional-tribble
 spec: 
